@@ -1,0 +1,21 @@
+/* 
+    Created on : 11.07.2018, 16:14:27
+    Author     : student
+*/
+.label {
+    /* fx Prefix notwendig immer */
+    -fx-min-width: 80;
+}
+
+.textfield {
+    -fx-min-width: 80;
+        -fx-padding: 5;
+        -fx-font: Verdana, Arial, sans-serif; 
+}
+
+.btn {
+    -fx-min-width: 80;
+    -fx-background: #ff000;
+}
+
+
