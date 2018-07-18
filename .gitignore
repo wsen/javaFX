@@ -1,3 +1,7 @@
-/nbproject/private/*
-/build/*
-/build.xml
+nbproject/*
+build/*
+build.xml
+dist/
+manifest.mf
+
+
